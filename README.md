@@ -55,7 +55,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RahidMalik&show_icons=true&theme=radical&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahidMalik&layout=compact&theme=radical&hide_border=true" alt="langs" />
 </div>
 
 ## 🔧 Most-Used Language
