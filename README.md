@@ -58,6 +58,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahidMalik&layout=compact&theme=radical&hide_border=true" alt="langs" />
 </div>
 
+## 🔧 Most-Used Language
+![JavaScript](https://img.shields.io/badge/JavaScript-100%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ---
 
 ## 🗣️ Quick Start
