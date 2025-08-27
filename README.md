@@ -10,10 +10,10 @@
   <a href="https://www.linkedin.com/in/malik-rahid-27a03a362/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/rahidmalik">
+  <a href="https://www.instagram.com/rahidmalik56/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://facebook.com/rahidmalik">
+  <a href="https://www.facebook.com/rahid.malik.106041">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
